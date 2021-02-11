@@ -1,0 +1,4 @@
+#Tue Feb 09 18:23:40 CET 2021
+base.0=D\:\\Flutter Projects\\kalkulacka\\kalkulacka\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
